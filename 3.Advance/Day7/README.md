@@ -17,3 +17,5 @@ class PostCreate(PostBase):
 Now change main.py file accordingly i.e change this `schemas.Post` to this `schemas.PostCreate`.
 
 - Also remove /sqlalchemy test route.
+
+- Updating and creating is fundamentally the same so we will keep the just the PostCreate class (Inherited from the PostBase class) in our schemas.py file.
