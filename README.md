@@ -1,2 +1,7 @@
 # 100-days-of-FastAPI
-This is the repository containing the notes and practical usage of FastAPI, from scratch to advance level.
+### Repositories containing the 100 days of FastAPI work.
+#### Repo Contains:
+- Beginner level to advance level FastAPI work.
+- Each day has it's notes in a README file.
+- For each day `.py` files contains the practical FastAPI code.
+- In Advance level directory `sqlalchemy` is used.
